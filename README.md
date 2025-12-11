@@ -24,7 +24,7 @@ Server: Laragon (Apache/Nginx)
 Follow these steps to set up the project locally:
 
 1. Clone the Repository
-git clone https://github.com/Andhare2355/ImpactGuru/blob/main/README.md
+git clone https://github.com/Andhare2355/ImpactGuru?tab=readme-ov-file
 
 Install Dependencies
 composer install npm install npm run build
@@ -80,7 +80,7 @@ Server: Laragon (Apache/Nginx)
 Follow these steps to set up the project locally:
 
 1. Clone the Repository
-git clone https://github.com/Andhare2355/ImpactGuru/blob/main/README.md
+git clone https://github.com/Andhare2355/ImpactGuru?tab=readme-ov-file
 
 Install Dependencies
 composer install npm install npm run build
