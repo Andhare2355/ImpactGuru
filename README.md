@@ -80,7 +80,7 @@ Server: Laragon (Apache/Nginx)
 Follow these steps to set up the project locally:
 
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/impact-guru-crm.git cd impact-guru-crm
+git clone https://github.com/Andhare2355/ImpactGuru/blob/main/README.md
 
 Install Dependencies
 composer install npm install npm run build
